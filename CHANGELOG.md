@@ -2,6 +2,5 @@
 
 ##### Chores
 
-*  added yarn (4b837494)
-*  added release cli module (0c6128fc)
+*  first commit after tag v1.0.0 (1d4b9614)
 
