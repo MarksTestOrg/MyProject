@@ -2,5 +2,5 @@
 
 ##### Chores
 
-*  first commit after tag v1.0.0 (1d4b9614)
+*  commit after the v2.0.0 tag (a6694bb2)
 
