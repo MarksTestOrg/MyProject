@@ -1,2 +1,7 @@
-#### 1.0.0 (2018-05-14)
+### Change Log (June 6th 2018)
+
+##### Chores
+
+*  added yarn (4b837494)
+*  added release cli module (0c6128fc)
 
