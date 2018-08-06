@@ -1,6 +1,6 @@
 {
   "name": "myproject",
-  "version": "2.7.0",
+  "version": "2.8.0",
   "description": "my first project",
   "main": "index.js",
   "scripts": {
