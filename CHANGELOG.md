@@ -2,15 +2,13 @@
 
 ##### Chores
 
-*  bumping version number (aee0f7ec)
-*  bump version number to 3.0.0 (d4ca95c9)
-*  astrsdfasdf (d0381f38)
+*  bump version to 4.1.0 (f20eb530)
 
 ##### New Features
 
-*  new feature (566e39c7)
+*  another change (be6e63fc)
+*  BREAKING CHANGE (9a3412c8)
+*  added big feature (4135dff1)
+*  another feature (6848e4bc)
 
-##### Other Changes
-
-*  breaking change (adef96ff)
 
