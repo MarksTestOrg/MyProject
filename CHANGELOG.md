@@ -1,4 +1,4 @@
-### Change Log (August 6th 2018)
+### Change Log (August 7th 2018)
 
 ##### Chores
 
@@ -13,7 +13,4 @@
 ##### Other Changes
 
 *  breaking change (adef96ff)
-
-
-
 
