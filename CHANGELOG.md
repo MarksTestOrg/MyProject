@@ -2,13 +2,10 @@
 
 ##### Chores
 
-*  bump version to 4.1.0 (f20eb530)
+*  bump version to v5.0.0 (b1209320)
 
 ##### New Features
 
-*  another change (be6e63fc)
-*  BREAKING CHANGE (9a3412c8)
-*  added big feature (4135dff1)
-*  another feature (6848e4bc)
+*  some change (dc5d5a0c)
 
 
