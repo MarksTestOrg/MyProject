@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "release-documentation-cli": "^1.5.2"
+    "release-documentation-cli": "2.1.2"
   }
 }
